@@ -1,15 +1,23 @@
 body {
     background: #98ce42
 }
+
+#banner {
+    width: 100%;
+}
+
 h1 {
     text-align: center
 }
+
 p {
     text-align: center;
 }
+
 #missao {
     font-size: 20px;
 }
+
 strong {
     color: #083d01;
 }
