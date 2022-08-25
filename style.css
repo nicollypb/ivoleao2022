@@ -1,3 +1,9 @@
-p{
-    text-align: center
+body {
+    background: #98ce42
+}
+p {
+    text-align: center;
+}
+strong {
+    color: blue;
 }
