@@ -3,10 +3,19 @@ body {
 }
 
 #banner {
-    width
+    width: 100%;
 }
 
-h1 {
+.principal {
+    background: #0f360a;
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding: 20px;
+}
+
+.titulo-centralizado {
     text-align: center
 }
 
@@ -20,4 +29,24 @@ p {
 
 strong {
     color: #083d01;
+}
+
+.itens {
+    font-style: italic
+}
+
+.benefícios {
+    background: #f1f7d7;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 50%;
+}
+
+.imagemgato {
+    width: 50%;
 }
