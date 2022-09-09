@@ -1,5 +1,5 @@
 body {
-    background: #98ce42
+    background: #9ed4db
 }
 
 #banner {
@@ -28,7 +28,7 @@ p {
 }
 
 strong {
-    color: #083d01;
+    color: #2c2e2c;
 }
 
 .itens {
@@ -36,7 +36,7 @@ strong {
 }
 
 .benefícios {
-    background: #f1f7d7;
+    background: #ebb7e4;
     padding: 20px;
 }
 
