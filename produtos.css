@@ -1,3 +1,11 @@
 header {
     background: #fcb9fc;
 }
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-transform: uppercase;
+}
