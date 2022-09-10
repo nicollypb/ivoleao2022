@@ -2,12 +2,22 @@ header {
     background: #fcb9fc;
 }
 
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
 nav li {
     display: inline;
+    margin: 0 0 0 15px;
 }
 
 nav a {
     text-transform: uppercase;
     color: #0c0008;
     font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 }
