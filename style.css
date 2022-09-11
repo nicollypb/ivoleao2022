@@ -2,6 +2,11 @@ body {
     background: #9ed4db
 }
 
+header {
+    background: #db9ed6;
+    padding: 20px 0;
+}
+
 #banner {
     width: 100%;
 }
