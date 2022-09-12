@@ -41,7 +41,8 @@ nav a:hover {
 #banner {
     width: 100%;
     text-align: center;
-    padding: 25px 25px 25px;
+    padding-right: 25px;
+    padding-left: 25px;
 }
 
 .principal {
