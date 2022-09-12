@@ -89,7 +89,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
-.produto-descricao:active {
+.produto-preco:active {
     border-color: #2699e1;
 }
 
