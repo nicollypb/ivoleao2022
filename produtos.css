@@ -83,6 +83,12 @@ nav a:hover {
     margin-top: 10px;
 }
 
+.produto-preco:hover {
+    font-size: 24px;
+    color: #56cf0a;
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
     background: #db9ed6;
