@@ -89,6 +89,10 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.produto-descricao:active {
+    border-color: #2699e1;
+}
+
 footer {
     text-align: center;
     background: #db9ed6;
