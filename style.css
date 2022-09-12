@@ -55,6 +55,7 @@ nav a:hover {
 
 .titulo-centralizado {
     text-align: center;
+    font-size: 22px;
 }
 
 p {
@@ -70,7 +71,8 @@ strong {
 }
 
 .itens {
-    font-style: italic
+    font-style: italic;
+    font-size: 18px;
 }
 
 .benefícios {
