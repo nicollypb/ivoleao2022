@@ -85,18 +85,22 @@ nav a:hover {
 }
 
 .produto-preco a {
+    text-transform: uppercase;
+    color: #0c0008;
+    font-weight: bold;
+    font-size: 22px;
     text-decoration: none;
+
 }
 
-.produto-preco:hover {
+.produto-preco a:hover {
     font-size: 24px;
     color: #56cf0a;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .produto-preco:active {
     border-color: #2699e1;
-    text-decoration: none;
 }
 
 footer {
