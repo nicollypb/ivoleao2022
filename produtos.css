@@ -92,6 +92,7 @@ nav a:hover {
 
 .produto-preco:active {
     border-color: #2699e1;
+    text-decoration: none;
 }
 
 footer {
