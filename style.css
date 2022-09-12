@@ -14,7 +14,7 @@ header {
 }
 
 nav {
-    position: static;
+    position: absolute;
     top: 110px;
     right: 0;
 
