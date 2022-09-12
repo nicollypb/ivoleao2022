@@ -87,7 +87,7 @@ nav a:hover {
 .produto-preco:hover {
     font-size: 24px;
     color: #56cf0a;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .produto-preco:active {
