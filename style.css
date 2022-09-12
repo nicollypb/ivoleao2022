@@ -88,3 +88,15 @@ ul {
 .imagembeneficios {
     width: 50%;
 }
+
+footer {
+    text-align: center;
+    background: #db9ed6;
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #0c0008;
+    font-size: 15px;
+    margin: 20px 0 0;
+}
