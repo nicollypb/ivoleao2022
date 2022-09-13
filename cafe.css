@@ -1,0 +1,30 @@
+body {
+    background:  #db9ed6;
+}
+
+header {
+    background: #db9ed6;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+#banner {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    background: #db9ed6;
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #0c0008;
+    font-size: 15px;
+    margin: 20px 0 0;
+}
