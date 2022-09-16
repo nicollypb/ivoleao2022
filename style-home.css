@@ -21,7 +21,7 @@ nav {
 }
 
 nav li {
-    display: inline-flex;
+    display: inline;
     margin: 0 0 0 15px;
 }
 
