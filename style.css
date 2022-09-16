@@ -230,6 +230,13 @@ td, th {
     padding: 3em 0;
 }
 
+.beneficios h3 {
+    text-align: center;
+    font-size: 2em;
+    margin: 1em 0 1em;
+    clear: left;
+}
+
 .conteudo-beneficios {
     width: 640px;
     margin: 0 auto;
