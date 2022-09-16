@@ -221,3 +221,10 @@ td, th {
     width: 40%;
 }
 
+.mapa {
+    padding: 3em 0;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+}
