@@ -185,7 +185,7 @@ td, th {
     width: 100%;
 }
 
-.titulo-principal, .titulo-beneficios {
+.titulo-principal {
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
@@ -228,6 +228,13 @@ td, th {
 
 .beneficios {
     padding: 3em 0;
+}
+
+#titulo-beneficios {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
 }
 
 .conteudo-beneficios {
