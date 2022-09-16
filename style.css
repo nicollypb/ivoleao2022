@@ -1,3 +1,4 @@
+/* css cabeçalho */
 body {
     background:  #9ed4db;
 }
@@ -38,6 +39,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
+/* css produtos */
 .produtos {
     width: 940px;
     margin: 0 auto;
@@ -103,6 +105,7 @@ nav a:hover {
     border-color: #2699e1;
 }
 
+/* css rodapé */
 footer {
     text-align: center;
     background: #db9ed6;
@@ -115,6 +118,7 @@ footer {
     margin: 20px 0 0;
 }
 
+/* css contato */
 main {
     width: 940px;
     margin: 0 auto;
@@ -173,4 +177,14 @@ thead {
 td, th {
     border: 1px solid #000000;
     padding: 8px 15px;
+}
+
+/* css da página inicial */
+.banner {
+    width: 100%;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
 }
