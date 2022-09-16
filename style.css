@@ -150,14 +150,12 @@ form label, form legend {
     font-size: 18px;
     border: none;
     border-radius: 5px;
-    transition: 1s background;
-    transition: 1s color;
+    transition: 1s all;
     cursor: pointer;
 }
 
 .enviar:hover {
     background: #6c0acf;
     color: #000000;
-    font-size: 19px;
-
+    transform: scale(1.1);
 }
