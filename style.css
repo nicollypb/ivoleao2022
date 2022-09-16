@@ -192,6 +192,11 @@ td, th {
     clear: left;
 }
 
+.principal {
+    padding: 3em 0;
+    background: #9ed4db;
+}
+
 .principal h1 {
     text-align: center;
     font-size: 2em;
@@ -228,6 +233,7 @@ td, th {
 
 .beneficios {
     padding: 3em 0;
+    background: #528c93;
 }
 
 #titulo-beneficios {
