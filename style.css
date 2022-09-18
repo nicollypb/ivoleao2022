@@ -149,7 +149,7 @@ form label, form legend {
 .enviar {
     width: 35%;
     padding: 15px 0;
-    background: #56cf0a;
+    background: #b08ad6;
     color: whitesmoke;
     font-weight: bold;
     font-size: 18px;
@@ -160,7 +160,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-    background: #6e0ad1;
+    background: #56cf0a;
     color: #000000;
     transform: scale(1.1);
 }
@@ -170,7 +170,7 @@ table {
 }
 
 thead {
-    background: #56cf0a;
+    background: #b08ad6;
     color: antiquewhite;
     font-weight: bold;
 }
