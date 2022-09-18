@@ -330,7 +330,12 @@ section .benefícios {
     nav {
         position: static;
     }
+    
     .lista-beneficios, .imagem-beneficios {
+        width: 100%;
+    }
+
+    .produtos li {
         width: 100%;
     }
 }
