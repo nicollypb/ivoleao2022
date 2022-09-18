@@ -320,7 +320,7 @@ section .benefícios {
 
 @media screen and (max-width: 480px) {
     .header, .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
-        width: auto;
+        width: 100%;
     }
 
     h1 {
