@@ -274,6 +274,10 @@ section .benefícios {
     font-weight: bold;
 }
 
+.itens::after {
+    content: "⭑";
+}
+
 .imagem-beneficios {
     width: 40%;
 }
