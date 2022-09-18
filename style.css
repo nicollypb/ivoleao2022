@@ -160,7 +160,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-    background: #6c0acf;
+    background: #6e0ad1;
     color: #000000;
     transform: scale(1.1);
 }
@@ -233,7 +233,7 @@ td, th {
 
 .beneficios {
     padding: 3em 0;
-    background: #528c93;
+    background: #b08ad6;
 }
 
 #titulo-beneficios {
