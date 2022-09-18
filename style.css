@@ -79,7 +79,7 @@ nav a:hover {
 .imagem-produto {
     opacity: 1;
     transition: 400ms;
-    box-shadow: 5px 5px 5px #000000;
+    box-shadow: 5px 5px 5px #43bfcf;
 }
 
 .imagem-produto:hover {
@@ -240,7 +240,7 @@ td, th {
     margin: 0 20px 20px 0;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 5px 5px 5px #000000;
+    box-shadow: 5px 5px 5px #43bfcf;
 }
 
 .utensilios:hover {
@@ -306,7 +306,7 @@ section .benefícios {
     width: 40%;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 5px 5px 5px #000000;
+    box-shadow: 5px 5px 5px #9354d1;
 }
 
 .imagem-beneficios:hover {
