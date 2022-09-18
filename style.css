@@ -121,8 +121,7 @@ footer {
 
 /* css contato */
 main {
-    width: 940px;
-    margin: 0 auto;
+    
 }
 
 form {
@@ -195,6 +194,8 @@ td, th {
 .principal {
     padding: 3em 0;
     background: #9ed4db;
+    width: 940px;
+    margin: 0 auto;
 }
 
 .principal h1 {
@@ -224,6 +225,8 @@ td, th {
 
 .mapa {
     padding: 3em 0;
+    width: 940px;
+    margin: 0 auto;
 }
 
 .mapa p {
