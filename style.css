@@ -226,6 +226,7 @@ td, th {
 
 .mapa {
     padding: 3em 0;
+    background: linear-gradient(#9ed4db,#b08ad6);
 }
 
 .mapa-conteudo {
