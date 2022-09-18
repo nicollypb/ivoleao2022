@@ -319,7 +319,7 @@ section .benefícios {
 }
 
 @media screen and (max-width: 480px) {
-    .header, .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, .checkbox {
+    .header, .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, {
         width: auto;
     }
 
@@ -343,4 +343,7 @@ section .benefícios {
         width: 100%;
     }
 
+    .checkbox {
+        margin: 10px auto;
+    }
 }
