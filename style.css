@@ -76,6 +76,15 @@ nav a:hover {
     font-weight: bold;
 }
 
+.imagem-produto {
+    opacity: 1;
+    transition: 400ms;
+}
+
+.imagem-produto:hover {
+    opacity: 0.3;
+}
+
 .produto-descricao {
     font-size: 18px;
 }

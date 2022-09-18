@@ -41,11 +41,12 @@ nav a:hover {
     text-decoration: underline;
 }
  
-
+/*imagem cardapio*/
 #banner {
     width: 100%;
 }
 
+/* rodape */
 footer {
     text-align: center;
     background: #db9ed6;
