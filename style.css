@@ -268,7 +268,7 @@ section .benefícios {
 
 .itens {
     line-height: 1.5;
-    counter-reset: none;
+    list-style: none;
 }
 
 .itens:first-child {
