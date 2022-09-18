@@ -274,7 +274,7 @@ section .benefícios {
     font-weight: bold;
 }
 
-.itens::after {
+.itens::before {
     content: "⭑";
 }
 
