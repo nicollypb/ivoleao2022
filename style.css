@@ -268,11 +268,11 @@ section .benefícios {
 
 .itens {
     line-height: 1.5;
+    counter-reset: none;
 }
 
 .itens:first-child {
     font-weight: bold;
-    content: none;
 }
 
 .itens::before {
