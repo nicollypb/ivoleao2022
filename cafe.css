@@ -1,10 +1,10 @@
-/* configuracao das tres paginas de cardapio*/
+/* css tres paginas de cardapio*/
 body {
     font-family: 'Montserrat', sans-serif;
     background:  #db9ed6;
 }
 
-/*cabecalho*/
+/* csscabecalho */
 header {
     background: #db9ed6;
     padding: 20px 0;
@@ -41,12 +41,12 @@ nav a:hover {
     text-decoration: underline;
 }
  
-/*imagem cardapio*/
+/* css imagem cardapio */
 #banner {
     width: 100%;
 }
 
-/* rodape */
+/* css rodape */
 footer {
     text-align: center;
     background: #db9ed6;
