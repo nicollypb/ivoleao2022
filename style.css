@@ -335,6 +335,10 @@ section .benefícios {
         width: 100%;
     }
 
+    .imagem-beneficios {
+        box-shadow: none;
+    }
+
     .produtos li {
         width: 100%;
     }
