@@ -120,8 +120,9 @@ footer {
 }
 
 /* css contato */
-main {
-    
+.pagina-contato {
+    width: 940px;
+    margin: 0 auto;
 }
 
 form {
