@@ -304,7 +304,7 @@ section .benefícios {
     width: 40%;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 5px 5px 5px #9a68cc;
+    box-shadow: 5px 5px 5px #000000;
 }
 
 .imagem-beneficios:hover {
