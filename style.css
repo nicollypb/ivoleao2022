@@ -319,7 +319,7 @@ section .benefícios {
 }
 
 @media screen and (max-width: 480px) {
-    .header, .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos {
+    .header, .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, .checkbox {
         width: auto;
     }
 
@@ -342,4 +342,5 @@ section .benefícios {
     .produtos li {
         width: 100%;
     }
+
 }
