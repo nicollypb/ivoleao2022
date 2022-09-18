@@ -272,6 +272,7 @@ section .benefícios {
 
 .itens:first-child {
     font-weight: bold;
+    content: none;
 }
 
 .itens::before {
