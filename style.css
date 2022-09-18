@@ -306,29 +306,3 @@ section .benefícios {
     margin: 2em auto;
 }
 
-.imagens-bebidas {
-    opacity: 1;
-    transition: 400ms;
-}
-
-.imagem-bebidas:hover {
-    opacity: 0.3;
-}
-
-.imagem-doce {
-    opacity: 1;
-    transition: 400ms;
-}
-
-.imagem-doce:hover {
-    opacity: 0.3;
-}
-
-.imagem-salgado {
-    opacity: 1;
-    transition: 400ms;
-}
-
-.imagem-salgado:hover {
-    opacity: 0.3;
-}
