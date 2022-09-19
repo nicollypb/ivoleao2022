@@ -318,8 +318,9 @@ section .benefícios {
     margin: 2em auto;
 }
 
+/* css para celular */
 @media screen and (max-width: 480px) {
-    .header, .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, .pagina-contato {
+    .header, .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, .pagina-contato, body {
         width: auto;
     }
 
