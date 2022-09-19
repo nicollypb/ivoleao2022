@@ -344,4 +344,8 @@ section .benefícios {
         width: 100%;
     }
 
+    .conteudo-beneficios {
+        width: auto;
+    }
+
 }
