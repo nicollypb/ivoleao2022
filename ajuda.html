@@ -24,21 +24,23 @@
             </div>
         </header>
 
-        <main class="pagina-ajuda">
-            <label for="telefone">Telefone</label>
-            <input type="tel" id="telefone" class="input-padrao" required placeholder="(XX) XXXXX-XXXX">
-           
-            <label for="mensagem">Qual o problema?</label>
-            <textarea cols="30" rows="10" id="mensagem" class="input-padrao"></textarea>
+        <main>
+            <form>
+                <label for="telefone">Telefone</label>
+                <input type="tel" id="telefone" class="input-padrao" required placeholder="(XX) XXXXX-XXXX">
             
-            <div>
-                <legend>Por onde devemos te contatar?</legend>
-                <label for="radio-telefone"><input type="radio" name="contato" value="radio-telefone"> Telefone</label>
+                <label for="mensagem">Qual o problema?</label>
+                <textarea cols="30" rows="10" id="mensagem" class="input-padrao"></textarea>
                 
-                <label for="radio-whatsapp"><input type="radio" name="contato" value="radio-whatsapp" checked> Whatsapp</label>
-            </div>
+                <div>
+                    <legend>Por onde devemos te contatar?</legend>
+                    <label for="radio-telefone"><input type="radio" name="contato" value="radio-telefone"> Telefone</label>
+                    
+                    <label for="radio-whatsapp"><input type="radio" name="contato" value="radio-whatsapp" checked> Whatsapp</label>
+                </div>
 
-            <input type="submit" value="enviar formulário para reserva" class="enviar">
+                <input type="submit" value="enviar formulário para reserva" class="enviar">
+            </form>
         </main>
 
         <footer>
