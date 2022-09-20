@@ -190,7 +190,13 @@ td, th {
 }
 
 .ajuda {
-    
+    font-size: 18px;
+}
+
+.ajuda a {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 /* css da página inicial */
