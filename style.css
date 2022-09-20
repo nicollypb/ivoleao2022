@@ -166,7 +166,7 @@ form label, form legend {
     border-radius: 5px;
     transition: 1s all;
     cursor: pointer;
-    margin: auto;
+    margin: 20px auto;
 }
 
 .enviar:hover {
