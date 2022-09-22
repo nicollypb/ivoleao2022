@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
-        <title>Macchigato</title>
+        <title>Avalie - Macchigato</title>
         
         <link rel="stylesheet" href="reset.css.zip">
         <link rel="stylesheet" href="style.css">
@@ -24,6 +24,28 @@
                 </nav>
             </div>
         </header>
+        <main>
+            <form>
+                <label for="nomecompleto">Nome *opcional*</label>
+                <input type="text" id="nomecompleto" class="input-padrao">
+
+                <label for="mensagem">Deixe sua opinião</label>
+                <textarea cols="30" rows="10" id="mensagem" class="input-padrao"></textarea>
+
+                <div>
+                    <legend>Como prefere o nosso contato?</legend>
+                    <label for="radio-email"><input type="radio" name="contato" value="radio-email" checked> Incrivel</label>
+                    
+                    <label for="radio-telefone"><input type="radio" name="contato" value="radio-telefone"> Bom</label>
+                    
+                    <label for="radio-whatsapp"><input type="radio" name="contato" value="radio-whatsapp"> Ruim</label>
+                </div>
+
+                <label class="checkbox"><input type="checkbox" checked>Receber novidades por email?</label>
+                
+                <input type="submit" value="enviar formulário para reserva" class="enviar">
+            </form>
+        </main>
         <footer>
             <img src="macchigatom.png" alt="logo do cat café Macchigato">
             <p class="copyright">&copy; Copyright Macchigato - 2022</p>
