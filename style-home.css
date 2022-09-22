@@ -53,7 +53,7 @@ nav a:hover {
     font-weight: bold;
 }
 
-#avaliacao {
+main a {
     text-transform: uppercase;
     color: #0c0008;
     font-weight: bold;
@@ -61,7 +61,7 @@ nav a:hover {
     text-decoration: none;
 }
 
-#avaliacao:hover {
+main a:hover {
     color: #56cf0a;
     text-decoration: underline;
 }
