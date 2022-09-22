@@ -25,7 +25,7 @@ nav li {
     margin: 0 0 0 15px;
 }
 
-nav a, .avaliacao {
+nav a {
     text-transform: uppercase;
     color: #0c0008;
     font-weight: bold;
@@ -33,7 +33,7 @@ nav a, .avaliacao {
     text-decoration: none;
 }
 
-nav a, .avaliacao:hover {
+nav a:hover {
     color: #56cf0a;
     text-decoration: underline;
 }
@@ -51,6 +51,19 @@ nav a, .avaliacao:hover {
     padding: 20px;
     text-align: center;
     font-weight: bold;
+}
+
+.pricipal a {
+    text-transform: uppercase;
+    color: #0c0008;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.principal a:hover {
+    color: #56cf0a;
+    text-decoration: underline;
 }
 
 .titulo-centralizado {
