@@ -27,7 +27,7 @@ nav li {
     margin: 0 0 0 15px;
 }
 
-nav a {
+nav a, .link-avaliacao {
     text-transform: uppercase;
     color: #0c0008;
     font-weight: bold;
@@ -35,7 +35,7 @@ nav a {
     text-decoration: none;
 }
 
-nav a:hover {
+nav a, link-avaliacao:hover {
     color: #56cf0a;
     text-decoration: underline;
 }
