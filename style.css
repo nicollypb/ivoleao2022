@@ -381,3 +381,24 @@ section .benefícios {
     }
 
 }
+
+.enviar {
+    width: 35%;
+    padding: 15px 0;
+    background: #b08ad6;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+    margin: 20px auto;
+}
+
+.enviar:hover {
+    background: #56cf0a;
+    color: #000000;
+    transform: scale(1.1);
+    margin: 20px auto;
+}
