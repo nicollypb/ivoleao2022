@@ -27,7 +27,7 @@ nav li {
     margin: 0 0 0 15px;
 }
 
-nav a, .link-avaliacao {
+nav a {
     text-transform: uppercase;
     color: #0c0008;
     font-weight: bold;
@@ -35,7 +35,21 @@ nav a, .link-avaliacao {
     text-decoration: none;
 }
 
-nav a, link-avaliacao:hover {
+nav a:hover {
+    color: #56cf0a;
+    text-decoration: underline;
+}
+
+/* css avaliacao */
+.link-avaliacao a {
+    text-transform: uppercase;
+    color: #0c0008;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.link-avaliacao a:hover {
     color: #56cf0a;
     text-decoration: underline;
 }
