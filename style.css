@@ -294,6 +294,14 @@ td, th {
     text-align: center;
 }
 
+section .qrcode {
+    background: #b08ad6;
+}
+
+.qrcodeimagem {
+    width: 50%
+}
+
 section .benefícios {
     background: #b08ad6;
 }
