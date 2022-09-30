@@ -296,12 +296,26 @@ td, th {
 
 .qrcode {
     background: #b08ad6;
+    text-align: center;
 }
 
 .qrcodeimagem {
     width: 380px;
     margin: 20px 20px 20px 20px;
-    align-items: right;
+}
+
+.qrcode a {
+    color: #0c0008;
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: none;
+}
+    
+.qrcode a:hover {
+    color: #56cf0a;
+    text-decoration: underline;
+}
+    
 }
 
 section .benefícios {
