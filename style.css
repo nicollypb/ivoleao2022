@@ -299,7 +299,8 @@ td, th {
 }
 
 .qrcodeimagem {
-    width: 460px
+    width: 380px;
+    margin: 20px auto;
 }
 
 section .benefícios {
