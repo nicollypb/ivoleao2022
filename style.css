@@ -300,24 +300,24 @@ td, th {
 }
 
 .qrcodeimagem {
-    width: 380px;
+    width: 40%;
     margin: 20px 20px 20px 20px;
 }
 
-.qrcode p {
-    width: 500px;
-}
-
-.qrcode iframe {
+.qrcode a {
     color: #0c0008;
     font-weight: bold;
     font-size: 17px;
     text-decoration: none;
 }
     
-.qrcode iframe:hover {
+.qrcode a:hover {
     color: #56cf0a;
     text-decoration: underline;
+}
+
+.texto-qrcode {
+    width: 40%;
 }
 
 section .benefícios {
