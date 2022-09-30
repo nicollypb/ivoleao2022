@@ -305,6 +305,13 @@ td, th {
     margin: 0 20px 20px 0;
 }
 
+#titulo-qrcode {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
 .qrcode a {
     color: #0c0008;
     font-weight: bold;
