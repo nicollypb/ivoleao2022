@@ -300,7 +300,7 @@ td, th {
 }
 
 .qrcodeimagem {
-    width: 40%;
+    width: 20%;
     margin: 20px 20px 20px 20px;
 }
 
@@ -318,6 +318,8 @@ td, th {
 
 .texto-qrcode {
     width: 40%;
+    display: inline-block;
+    vertical-align: top;
 }
 
 section .benefícios {
@@ -348,8 +350,7 @@ section .benefícios {
 }
 
 .itens {
-    line-height: 1.5;
-    list-style: none;
+    
 }
 
 .itens:first-child {
