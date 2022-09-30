@@ -304,6 +304,10 @@ td, th {
     margin: 20px 20px 20px 20px;
 }
 
+.qrcode p {
+    width: 500px;
+}
+
 .qrcode a {
     color: #0c0008;
     font-weight: bold;
@@ -314,8 +318,6 @@ td, th {
 .qrcode a:hover {
     color: #56cf0a;
     text-decoration: underline;
-}
-    
 }
 
 section .benefícios {
