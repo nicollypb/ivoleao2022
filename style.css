@@ -301,6 +301,7 @@ td, th {
 
 .qrcodeimagem {
     width: 20%;
+    float: left;
 }
 
 .qrcode a {
@@ -317,12 +318,7 @@ td, th {
 
 .texto-qrcode {
     width: 40%;
-    display: inline-block;
-    vertical-align: top;
-    line-height: 1.5;
-    list-style: none;
-    display: inline-block;
-    vertical-align: top;
+    text-align: right;
 }
 
 section .benefícios {
