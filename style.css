@@ -439,7 +439,11 @@ section .benefícios {
         margin: 20px 10px;
     }
 
-    .qrimagens, .paragrafo-qrcode {
+    .paragrafo-qrcode {
+        display: none;
+    }
+
+    .qrcodeimagem {
         display: none;
     }
 
