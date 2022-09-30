@@ -300,8 +300,7 @@ td, th {
 }
 
 .qrcodeimagem {
-    width: 20%;
-    margin: 20px 20px 20px 20px;
+    width: 40%;
 }
 
 .qrcode a {
@@ -318,6 +317,10 @@ td, th {
 
 .texto-qrcode {
     width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 1.5;
+    list-style: none;
     display: inline-block;
     vertical-align: top;
 }
