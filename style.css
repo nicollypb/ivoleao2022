@@ -301,7 +301,7 @@ td, th {
 
 .qrcodeimagem {
     width: 20%;
-    float: left;
+    float: center;
 }
 
 .qrcode a {
@@ -318,7 +318,7 @@ td, th {
 
 .texto-qrcode {
     width: 40%;
-    text-align: right;
+    text-align: center;
 }
 
 section .benefícios {
