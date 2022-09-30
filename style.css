@@ -308,14 +308,14 @@ td, th {
     width: 500px;
 }
 
-.qrcode a {
+.qrcode iframe {
     color: #0c0008;
     font-weight: bold;
     font-size: 17px;
     text-decoration: none;
 }
     
-.qrcode a:hover {
+.qrcode iframe:hover {
     color: #56cf0a;
     text-decoration: underline;
 }
