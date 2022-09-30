@@ -320,6 +320,8 @@ td, th {
 .texto-qrcode {
     width: 40%;
     text-align: center;
+    display: inline-block;
+    vertical-align: top;
 }
 
 section .benefícios {
