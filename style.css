@@ -402,8 +402,12 @@ section .benefícios {
         position: static;
     }
     
-    .lista-beneficios, .imagem-beneficios {
+    .imagem-beneficios {
         width: 100%;
+    }
+
+    .lista-beneficios {
+        width: 60%;
     }
 
     .imagem-beneficios {
