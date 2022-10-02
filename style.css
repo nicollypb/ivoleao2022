@@ -58,6 +58,10 @@ nav a:hover {
     text-align: right;
 }
 
+.input-avaliacao {
+    width: 50%;
+}
+
 /* css produtos */
 .produtos {
     width: 940px;
