@@ -59,7 +59,7 @@ nav a:hover {
 
 .imagem-avaliacao {
     width: 40%;
-    text-align: right;
+    display: inline;
 }
 
 /* css produtos */
