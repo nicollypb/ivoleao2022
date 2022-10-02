@@ -53,15 +53,6 @@ nav a:hover {
     text-decoration: underline;
 }
 
-.input-avaliacao {
-    width: 940px;
-}
-
-.imagem-avaliacao {
-    width: 40%;
-    display: inline;
-}
-
 /* css produtos */
 .produtos {
     width: 940px;
