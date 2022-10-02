@@ -53,6 +53,10 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.imagem-avaliacao {
+    width: 30%;
+}
+
 /* css produtos */
 .produtos {
     width: 940px;
