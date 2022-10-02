@@ -55,11 +55,12 @@ nav a:hover {
 
 .imagem-avaliacao {
     width: 30%;
-    text-align: center;
+    text-align: right;
 }
 
 .input-avaliacao {
-    width: 50%;
+    width: 30%;
+    text-align: left;
 }
 
 /* css produtos */
