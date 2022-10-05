@@ -40,6 +40,10 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.cabecalho-pagina {
+    color: #a275ce;
+}
+
 /* css avaliacao */
 .link-avaliacao a {
     color: #0c0008;
