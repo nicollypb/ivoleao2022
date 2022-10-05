@@ -45,7 +45,8 @@ nav a:hover {
 }
 
 .cabecalho-pagina:hover {
-    color: #0c0008;
+    color: #a275ce;
+    text-decoration: none;
 }
 
 /* css avaliacao */
