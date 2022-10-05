@@ -454,14 +454,15 @@ section .benefícios {
 
     .texto-qrcode {
         margin: 20px 0 20px 0;
+        width: 18px;
     }
 
     .paragrafo-qrcode {
-        display: none;
+        
     }
 
     .qrcodeimagem {
-        display: none
+        
     }
 
 }
