@@ -453,8 +453,8 @@ section .benefícios {
     }
 
     .texto-qrcode {
-        margin: 20px 0 20px 0;
-        width: 18px;
+        margin: auto;
+        width: 30%
     }
 
     .paragrafo-qrcode {
@@ -462,9 +462,46 @@ section .benefícios {
     }
 
     .qrcodeimagem {
-        
+        width: 50%;
+        margin: auto;
     }
 
 }
 
+.qrcode {
+    background: #b08ad6;
+    text-align: center;
+}
 
+.qrcodeimagem {
+    width: 20%;
+    float: center;
+    margin: 0 20px 20px 0;
+}
+
+#titulo-qrcode {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.qrcode a {
+    color: #0c0008;
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: none;
+}
+    
+.qrcode a:hover {
+    color: #56cf0a;
+    text-decoration: underline;
+}
+
+.texto-qrcode {
+    width: 40%;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    margin: 100px 0 100px 0;
+}
