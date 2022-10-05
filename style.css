@@ -44,6 +44,10 @@ nav a:hover {
     color: #a275ce;
 }
 
+.cabecalho-pagina:hover {
+    color: #0c0008;
+}
+
 /* css avaliacao */
 .link-avaliacao a {
     color: #0c0008;
