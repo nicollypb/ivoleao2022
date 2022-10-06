@@ -337,7 +337,7 @@ td, th {
     text-align: center;
     display: inline-block;
     vertical-align: top;
-    margin: 100px 0 100px 0;
+    margin: 80px 0 80px 0;
 }
 
 .baixo {
@@ -508,7 +508,6 @@ section .benefícios {
 }
 
 .texto-qrcode {
-    width: 40%;
     text-align: center;
     display: inline-block;
     vertical-align: top;
