@@ -309,7 +309,6 @@ td, th {
 }
 
 .qrcodeimagem {
-    width: 20%;
     float: center;
     margin: 0 20px 20px 0;
 }
@@ -462,7 +461,7 @@ section .benefícios {
     }
 
     .qrcodeimagem {
-        margin: auto;
+        margin: 0 20px 20px 0;
     }
 
     .qrcode {
