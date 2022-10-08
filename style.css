@@ -249,7 +249,6 @@ td, th {
     font-weight: bold;
 }
 
-
 .principal {
     padding: 3em 0;
     background: #9ed4db;
@@ -308,6 +307,10 @@ td, th {
 .qrcode {
     background: #b08ad6;
     text-align: center;
+}
+
+.qrcode p {
+    margin: 1em;
 }
 
 .qrcodeimagem {
