@@ -466,7 +466,7 @@ section .benefícios {
 
     .texto-qrcode {
         margin: auto;
-        width: 50%
+        width: 50%;
     }
 
     .qrcodeimagem {
@@ -476,6 +476,7 @@ section .benefícios {
 
     .qrcode {
         text-align: none;
+        margin: 1em;
     }
 
     .lado {
@@ -487,7 +488,7 @@ section .benefícios {
     }
 
     #titulo-qrcode {
-        font-size: 1em;
+        font-size: 1.5em;
     }
 }
 
