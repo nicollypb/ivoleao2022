@@ -476,6 +476,9 @@ section .benefícios {
 
     .qrcode {
         text-align: none;
+    }
+
+    .qrcode p {
         margin: 1em;
     }
 
@@ -488,7 +491,7 @@ section .benefícios {
     }
 
     #titulo-qrcode {
-        font-size: 1.5em;
+        font-size: 1.8em;
     }
 }
 
