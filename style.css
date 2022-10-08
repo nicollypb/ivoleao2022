@@ -482,6 +482,10 @@ section .benefícios {
         margin: 1em;
     }
 
+    .qrcode a {
+        margin: 1em;
+    }
+
     .lado {
         display: none;
     }
