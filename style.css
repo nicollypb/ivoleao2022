@@ -440,6 +440,7 @@ section .benefícios {
 
     .produtos li {
         width: 100%;
+        margin: auto;
     }
 
     .conteudo-beneficios {
