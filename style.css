@@ -246,7 +246,9 @@ td, th {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+    font-weight: bold;
 }
+
 
 .principal {
     padding: 3em 0;
@@ -319,6 +321,7 @@ td, th {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+    font-weight: bold;
 }
 
 .qrcode a {
@@ -359,7 +362,9 @@ section .benefícios {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+    font-weight: bold;
 }
+
 
 .conteudo-beneficios {
     width: 640px;
