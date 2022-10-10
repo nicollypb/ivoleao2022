@@ -526,7 +526,7 @@ section .benefícios {
         display: none;
     }
 
-    nav li {
+    nav ul {
         text-align: center;
     }
 }
