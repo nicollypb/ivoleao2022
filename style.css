@@ -243,7 +243,7 @@ td, th {
     opacity: 1;
     transition: 400ms;
     text-align: center;
-    margin: auto;
+    margin: 50px 50px 50px 50px;
 }
 
 .banner:hover {
