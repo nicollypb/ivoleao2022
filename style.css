@@ -518,6 +518,7 @@ section .benefícios {
 
     .logo-celular {
         display: block;
+        text-align: center;
     }
 
     .logo-computador {
