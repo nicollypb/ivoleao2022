@@ -244,7 +244,7 @@ td, th {
     transition: 400ms;
     text-align: center;
     margin: 50px 50px 50px 50px;
-    display: inline-block;
+    display: block;
 }
 
 .banner:hover {
