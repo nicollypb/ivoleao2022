@@ -412,6 +412,11 @@ section .benefícios {
     margin: 2em auto;
 }
 
+/* css imagem cardapio */
+#banner {
+    width: 100%;
+}
+
 /* css qrcode */
 .imagem-qrcode {
     width: 100%;
