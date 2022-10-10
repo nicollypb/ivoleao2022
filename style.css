@@ -237,13 +237,14 @@ td, th {
     color: #56cf0a;
 }
 
-/* css da página inicial */
+/* css da página inicial weight 450px */
 .banner {
     width: 70%;
     opacity: 1;
     transition: 400ms;
     text-align: center;
     margin: 50px 50px 50px 50px;
+    display: inline-block;
 }
 
 .banner:hover {
