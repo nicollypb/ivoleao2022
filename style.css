@@ -537,6 +537,7 @@ section .benefícios {
         width: 100%;
         opacity: 1;
         transition: 400ms;
+        margin: auto;
     }
 }
 
