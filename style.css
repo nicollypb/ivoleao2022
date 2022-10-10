@@ -519,10 +519,15 @@ section .benefícios {
     .logo-celular {
         display: block;
         text-align: center;
+        margin: auto;
     }
 
     .logo-computador {
         display: none;
+    }
+
+    nav li {
+        text-align: center;
     }
 }
 
