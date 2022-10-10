@@ -243,7 +243,7 @@ td, th {
     opacity: 1;
     transition: 400ms;
     text-align: center;
-    margin: auto;
+    margin: 20px auto;
     display: block;
 }
 
@@ -531,6 +531,12 @@ section .benefícios {
 
     nav ul {
         text-align: center;
+    }
+
+    .banner {
+        width: 100%;
+        opacity: 1;
+        transition: 400ms;
     }
 }
 
