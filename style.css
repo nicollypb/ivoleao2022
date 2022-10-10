@@ -239,7 +239,7 @@ td, th {
 
 /* css da página inicial weight 450px */
 .banner {
-    width: 75%;
+    width: 65%;
     opacity: 1;
     transition: 400ms;
     text-align: center;
