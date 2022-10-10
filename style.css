@@ -242,6 +242,8 @@ td, th {
     width: 100%;
     opacity: 1;
     transition: 400ms;
+    text-align: center;
+    margin: auto;
 }
 
 .banner:hover {
