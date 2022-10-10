@@ -49,6 +49,10 @@ nav a:hover {
     text-decoration: none;
 }
 
+.logo-celular {
+    display: none;
+}
+
 /* css avaliacao */
 .link-avaliacao a {
     color: #0c0008;
@@ -510,6 +514,14 @@ section .benefícios {
 
     #titulo-qrcode {
         font-size: 1.8em;
+    }
+
+    .logo-celular {
+        display: block;
+    }
+
+    .logo-computador {
+        display: none;
     }
 }
 
