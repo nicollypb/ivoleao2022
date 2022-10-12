@@ -381,13 +381,15 @@ section .benefícios {
 
 .conteudo-beneficios {
     width: 640px;
-    margin: 0 225px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .lista-beneficios {
     width: 40%;
     display: inline-block;
     vertical-align: top;
+    text-align: left;
 }
 
 .itens {
