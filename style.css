@@ -429,6 +429,10 @@ section .benefícios {
     width: 100%;
 }
 
+.body-qrcode {
+    background: #b08ad6;
+}
+
 /* css para celular */
 @media screen and (max-width: 480px) {
     .header, .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, .pagina-contato, body {
