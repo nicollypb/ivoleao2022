@@ -243,7 +243,7 @@ td, th {
     opacity: 1;
     transition: 400ms;
     text-align: center;
-    margin: 40px auto;
+    margin: 40px auto 0;
     display: block;
 }
 
