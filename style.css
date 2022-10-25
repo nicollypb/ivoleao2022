@@ -426,6 +426,10 @@ section .benefícios {
     width: 100%;
 }
 
+.cardapiocelular {
+    display: none;
+}
+
 /* css qrcode */
 .imagem-qrcode {
     width: 100%;
@@ -544,6 +548,14 @@ section .benefícios {
         opacity: 1;
         transition: 400ms;
         margin: auto;
+    }
+
+    #banner {
+        display: none;
+    }
+
+    .cardapiocelular {
+        display: block;
     }
 }
 
