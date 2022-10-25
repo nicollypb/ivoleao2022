@@ -556,6 +556,7 @@ section .benefícios {
 
     .cardapiocelular {
         display: block;
+        width: 100%;
     }
 }
 
