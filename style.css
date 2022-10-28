@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: #db9ed6; 
+    background: linear-gradient(135deg, #db9ed6, #c364bb); 
     padding: 20px 0;
 }
 
