@@ -207,11 +207,6 @@ form label, form legend {
     transform: scale(1.1);
 }
 
-.enviar::selection {
-    background: #0c0008;
-}
-
-
 table {
     margin: 20px 0 40px;
 }
