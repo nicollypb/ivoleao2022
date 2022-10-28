@@ -67,6 +67,8 @@ nav a:hover {
     text-decoration: underline;
 }
 
+
+
 /* css produtos */
 .produtos {
     width: 940px;
@@ -204,6 +206,11 @@ form label, form legend {
     color: #000000;
     transform: scale(1.1);
 }
+
+.enviar::selection {
+    background: #0c0008;
+}
+
 
 table {
     margin: 20px 0 40px;
