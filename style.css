@@ -150,7 +150,7 @@ nav a:hover {
 /* css rodapé */
 footer {
     text-align: center;
-    background: #db9ed6;
+    background: url(rodape.png);
     padding: 40px 0;
 }
 
