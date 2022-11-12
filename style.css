@@ -370,6 +370,7 @@ td, th {
 
 .qrcodew p {
     margin: 1em;
+    display: block;
 }
 
 #titulo-qrcodew {
