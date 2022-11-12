@@ -363,6 +363,11 @@ td, th {
     display: none;
 }
 
+.qrcodew {
+    background: #b08ad6;
+    text-align: center;
+}
+
 section .benefícios {
     background: #b08ad6;
 }
