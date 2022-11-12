@@ -368,6 +368,42 @@ td, th {
     text-align: center;
 }
 
+.qrcodew p {
+    margin: 1em;
+}
+
+#titulo-qrcodew {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    font-weight: bold;
+}
+
+.qrcodew a {
+    color: #0c0008;
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: none;
+}
+    
+.qrcodew a:hover {
+    color: #56cf0a;
+    text-decoration: underline;
+}
+
+.texto-qrcodew {
+    width: 40%;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    margin: 100px 0 100px 0;
+}
+
+.baixow {
+    display: none;
+}
+
 section .benefícios {
     background: #b08ad6;
 }
