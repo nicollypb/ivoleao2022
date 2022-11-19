@@ -54,7 +54,7 @@ nav a:hover {
     display: none;
 }
 
-/* css avaliacao */
+/* css avaliacao e ajuda */
 .link-avaliacao a {
     color: #0c0008;
     font-weight: bold;
@@ -69,7 +69,6 @@ nav a:hover {
 
 .avaliacaotexto p {
     margin: 0 0 1em;
-    width: 40%;
 }
 
 .avaliacaotexto a {
@@ -90,6 +89,9 @@ nav a:hover {
     transition: 400ms;
 }
 
+.textoajuda p {
+    margin: 0 0 1em;
+}
 
 /* css produtos */
 .produtos {
