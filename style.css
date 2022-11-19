@@ -83,6 +83,13 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.avaliacaoimagem {
+    width: 40%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 5px 5px 5px #a275ce;
+}
+
 
 /* css produtos */
 .produtos {
