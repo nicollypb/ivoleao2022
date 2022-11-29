@@ -350,9 +350,9 @@ td, th {
 }
 
 .qrcodeimagem {
-    float: center;
+    text-align: center;
     width: 20%;
-    margin: 70px 50px 50px 50px;
+    margin: 50px 50px 50px 50px;
 }
 
 #titulo-qrcode {
